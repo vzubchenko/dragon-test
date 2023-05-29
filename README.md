@@ -1,2 +1,2 @@
-# dragon-test
-Test task for Affilate Dragons
+Поднять проект:
+1) 
